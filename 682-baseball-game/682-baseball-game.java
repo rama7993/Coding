@@ -1,26 +1,25 @@
 class Solution {
-public:
-    int calPoints(vector<string>& ops) {
-        stack<int>st;
-        for(string &ch:ops){
-            if(ch=="C" && !st.empty())
+    public int calPoints(String[] ops) {
+        Stack<Integer> st=new Stack<>();
+        for(int i=0;i<ops.length;i++){
+            if(ops[i].equals("C") )
                 st.pop();
-            else if(ch=="+" && st.size()>=2){
-                int a=st.top();
-                st.pop();
-                int b=st.top();
+            else if(ops[i].equals("+")){
+                int a=st.pop(),b=st.peek();
                 st.push(a);
                 st.push(a+b);
             }
-            else if(ch=="D" && !st.empty())
-                st.push(st.top()*2);
+            else if(ops[i].equals("D"))
+                st.push(st.peek()*2);
+            
             else{
-                st.push(stoi(ch));
+                st.push(Integer.parseInt(ops[i]));
             }
+            
         }
         int ans=0;
-        while(!st.empty())
-            ans+=st.top(),st.pop();
+        while(!st.isEmpty())
+            ans+=st.pop();
         return ans;
     }
-};
+}
