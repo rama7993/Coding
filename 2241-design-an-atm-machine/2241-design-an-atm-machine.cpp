@@ -1,6 +1,6 @@
 class ATM {
 private:
-     vector<long long > cnt{0,0,0,0,0};
+     vector<long long> cnt{0,0,0,0,0};
 public:
    
     ATM() {
@@ -16,7 +16,8 @@ public:
          vector<int> take{0,0,0,0,0};
          vector<int> val{20,50,100,200,500};
          for(int i=4;i>=0;i--){
-             take[i]=min<long long>(cnt[i],amount/val[i]);// min of present and to take
+            take[i]=(amount/val[i] > cnt[i]) ? cnt[i] : amount/val[i];
+             // min of present and to take
              amount-=val[i]*take[i];//remaining amount
          }
          if(amount>0)
