@@ -12,7 +12,6 @@
 class Solution {
 private:
     vector<int>v;
-    int i=0;
     void inorder(TreeNode* root){
         if(!root)
             return;
@@ -20,17 +19,18 @@ private:
         v.push_back(root->val);
         inorder(root->right);
     }
-    void recover(TreeNode* root){
+    void recover(TreeNode* root,int &i){
         if(!root)
             return;
-        recover(root->left);
+        recover(root->left,i);
         root->val=v[i++];
-        recover(root->right);
+        recover(root->right,i);
     }
 public:
     void recoverTree(TreeNode* root) {
         inorder(root);
         sort(v.begin(),v.end());
-        recover(root);
+        int i=0;
+        recover(root,i);
     }
 };
