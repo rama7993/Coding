@@ -3,7 +3,7 @@ class Solution:
         
         dist=[sys.maxsize]*(n+1) #int_max and 0-indexed
         dist[k]=0 #src node
-        for i in range(n+1):#bellman ford :relax V-1 times
+        for i in range(n-1):#bellman ford :relax V-1 times
             for u,v,w in times:
                 if(dist[v]>dist[u]+w):
                     dist[v]=w+dist[u]
