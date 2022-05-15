@@ -16,8 +16,10 @@ public:
      n=board[0].size();
      for(int i=0;i<m;i++){
           for(int j=0;j<n;j++){
-              if(i==0 or i==m-1 or  j==0 or j==n-1)//edges
-                  dfs(board,i,j);//make as 1;
+              if(i==0 or i==m-1 or  j==0 or j==n-1){//edges
+                  if(board[i][j]=='O')
+                  {dfs(board,i,j);}//make as 1;
+              }   
           }
       }
     
