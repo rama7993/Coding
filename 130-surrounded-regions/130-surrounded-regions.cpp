@@ -2,7 +2,7 @@ class Solution {
 private:
     int m,n;
     void dfs(vector<vector<char>>& mat,int i,int j){
-     if(i<0 or i>=m or j<0 or j>=n or mat[i][j]!='O')
+     if(i<0 or i>=m or j<0 or j>=n or mat[i][j]!='O' or mat[i][j]==1)
           return;
     mat[i][j]='1';
     dfs(mat,i+1,j);
