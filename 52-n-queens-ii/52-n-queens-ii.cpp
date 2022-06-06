@@ -1,6 +1,6 @@
 class Solution {
 private:
-    set<vector<string>>ans;
+   int ans=0;
     bool safe(vector<string>&grid,int i,int j,int n){
         int row=i,col=j;
         //left top 45 degree
@@ -34,7 +34,7 @@ private:
     }
     void solve(vector<string>&grid,int col,int n){
         if(col==n){
-            ans.insert(grid);
+            ans++;
         }
         for(int row=0;row<n;row++){
             if(safe(grid,row,col,n)){
@@ -50,6 +50,6 @@ public:
     int totalNQueens(int n) {
         vector<string> grid(n,string(n,'.'));
         solve(grid,0,n);
-        return ans.size();
+        return ans;
     }
 };
