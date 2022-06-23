@@ -1,13 +1,14 @@
-class Solution {
-    
-    class comp implements Comparator<int[]>{
+
+ class comp implements Comparator<int[]>{
         @Override
         public int compare(int a[],int b[]){
             if(a[1]==b[1]) return a[0]-b[0];
             return a[1]-b[1];
         }
     }
-    
+
+class Solution {
+   
     public int scheduleCourse(int[][] courses) {
         PriorityQueue<Integer> pq=new  PriorityQueue<>(Collections.reverseOrder());//PriorityQueue<>((a,b)->(b-a));
     //Arrays.sort(courses,(a,b)->(a[1]==b[1]) ? a[0]-b[0] : a[1]-b[1]);
