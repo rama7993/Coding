@@ -11,7 +11,6 @@ var countPalindromicSubsequence = function (s) {
     for (let char of repeated) {
         const left = s.indexOf(char);
         const right = s.lastIndexOf(char);
-        console.log(left, right)
         const unique_middle = new Set();
         for (let i = left + 1; i < right; i++) {
             unique_middle.add(s[i]);
