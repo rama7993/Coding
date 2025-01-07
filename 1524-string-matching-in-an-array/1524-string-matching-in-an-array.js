@@ -9,7 +9,7 @@ var stringMatching = function (words) {
     for (let i = 0; i < n; i++) {
         for (let j = 0; j < n; j++) {
             if (i === j) continue;
-            if (words[j].indexOf(words[i]) !== -1) {
+            if (words[j].includes(words[i])) {
                 ans.push(words[i]);
                 break;
             }
