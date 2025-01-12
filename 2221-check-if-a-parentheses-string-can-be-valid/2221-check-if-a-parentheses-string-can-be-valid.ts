@@ -22,8 +22,7 @@ function canBeValid(s: string, locked: string): boolean {
     }
 
     // Match remaining open brackets with unlocked characters
-    while (stack.length > 0 && unlocked.length > 0 &&
-        stack.at(-1) < unlocked.at(-1)) {
+    while (stack.length > 0 && unlocked.length > 0 && stack.at(-1) < unlocked.at(-1)) {
         stack.pop();
         unlocked.pop();
     }
