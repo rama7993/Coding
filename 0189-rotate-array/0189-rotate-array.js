@@ -6,8 +6,6 @@
 var rotate = function (nums, k) {
     const n = nums.length;
     k = k % n;
-    if (k === 0) return;
-    const rotateArr = nums.slice(-k);
-    nums.splice(n - k);
-    nums.unshift(...rotateArr);
+    const endOfArr = nums.splice(n - k);
+    nums.unshift(...endOfArr);
 };
