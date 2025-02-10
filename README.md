@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rama7993/Coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rama7993/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rama7993/Coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rama7993/Coding/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
