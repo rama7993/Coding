@@ -5,10 +5,10 @@
  */
 var isAnagram = function (s, t) {
     if (s.length !== t.length) return false;
-    const freq = Array(26).fill(0);
+    const freq = new Map();
     for (let i = 0; i < s.length; i++) {
-        freq[s.charCodeAt(i) - 'a'.charCodeAt(0)]++;
-        freq[t.charCodeAt(i) - 'a'.charCodeAt(0)]--;
+        freq.set(s[i], (freq.get(s[i]) || 0) + 1);
+        freq.set(t[i], (freq.get(t[i]) || 0) - 1);
     }
-    return freq.every((count) => count === 0);
+    return [...freq.values()].every((count) => count === 0);
 };
