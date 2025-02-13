@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rama7993/Coding/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rama7993/Coding/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/rama7993/Coding/tree/master/1364-tuple-with-same-product) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rama7993/Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rama7993/Coding/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
