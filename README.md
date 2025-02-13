@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rama7993/Coding/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/rama7993/Coding/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rama7993/Coding/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
