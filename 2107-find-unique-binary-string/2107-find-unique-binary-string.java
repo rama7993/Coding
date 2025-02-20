@@ -1,9 +1,10 @@
 class Solution {
     public String findDifferentBinaryString(String[] nums) {
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
         for (int i = 0; i < nums.length; i++) {
-            ans += (nums[i].charAt(i) == '0') ? '1' : '0';
+            char curr = nums[i].charAt(i);
+            ans.append(curr == '0' ? '1' : '0');
         }
-        return ans;
+        return ans.toString();
     }
 }
