@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rama7993/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rama7993/Coding/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/rama7993/Coding/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rama7993/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rama7993/Coding/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
