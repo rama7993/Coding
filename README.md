@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/rama7993/Coding/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/rama7993/Coding/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/rama7993/Coding/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rama7993/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/rama7993/Coding/tree/master/1170-shortest-common-supersequence) |
