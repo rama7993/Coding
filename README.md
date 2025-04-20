@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rama7993/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/rama7993/Coding/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/rama7993/Coding/tree/master/1396-count-servers-that-communicate) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rama7993/Coding/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rama7993/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rama7993/Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/rama7993/Coding/tree/master/1524-string-matching-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rama7993/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/rama7993/Coding/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rama7993/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rama7993/Coding/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rama7993/Coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/rama7993/Coding/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rama7993/Coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rama7993/Coding/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/rama7993/Coding/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rama7993/Coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rama7993/Coding/tree/master/2456-construct-smallest-number-from-di-string) |
