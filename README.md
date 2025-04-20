@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/rama7993/Coding/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rama7993/Coding/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rama7993/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rama7993/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rama7993/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rama7993/Coding/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/rama7993/Coding/tree/master/1502-construct-k-palindrome-strings) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rama7993/Coding/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/rama7993/Coding/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rama7993/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rama7993/Coding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rama7993/Coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
