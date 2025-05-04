@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rama7993/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rama7993/Coding/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rama7993/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/rama7993/Coding/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/rama7993/Coding/tree/master/1396-count-servers-that-communicate) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/rama7993/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rama7993/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rama7993/Coding/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/rama7993/Coding/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rama7993/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rama7993/Coding/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1160-letter-tile-possibilities](https://github.com/rama7993/Coding/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/rama7993/Coding/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/rama7993/Coding/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/rama7993/Coding/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rama7993/Coding/tree/master/1502-construct-k-palindrome-strings) |
