@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rama7993/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rama7993/Coding/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rama7993/Coding/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/rama7993/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rama7993/Coding/tree/master/0075-sort-colors) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rama7993/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rama7993/Coding/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/rama7993/Coding/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rama7993/Coding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rama7993/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rama7993/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rama7993/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rama7993/Coding/tree/master/0205-isomorphic-strings) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rama7993/Coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rama7993/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
