@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rama7993/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rama7993/Coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rama7993/Coding/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rama7993/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rama7993/Coding/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/rama7993/Coding/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rama7993/Coding/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
 | [2050-count-good-numbers](https://github.com/rama7993/Coding/tree/master/2050-count-good-numbers) |
 ## Data Stream
 |  |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/rama7993/Coding/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
