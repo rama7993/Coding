@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rama7993/Coding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rama7993/Coding/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/rama7993/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/rama7993/Coding/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rama7993/Coding/tree/master/0290-word-pattern) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/rama7993/Coding/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rama7993/Coding/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/rama7993/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rama7993/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/rama7993/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/rama7993/Coding/tree/master/0212-word-search-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rama7993/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rama7993/Coding/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/rama7993/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rama7993/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rama7993/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/rama7993/Coding/tree/master/2434-design-a-number-container-system) |
