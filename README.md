@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/rama7993/Coding/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/rama7993/Coding/tree/master/0203-remove-linked-list-elements) |
 | [2050-count-good-numbers](https://github.com/rama7993/Coding/tree/master/2050-count-good-numbers) |
 ## Data Stream
 |  |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rama7993/Coding/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/rama7993/Coding/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/rama7993/Coding/tree/master/0203-remove-linked-list-elements) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rama7993/Coding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
