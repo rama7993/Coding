@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rama7993/Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/rama7993/Coding/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/rama7993/Coding/tree/master/0203-remove-linked-list-elements) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rama7993/Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/rama7993/Coding/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rama7993/Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
