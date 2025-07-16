@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rama7993/Coding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rama7993/Coding/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rama7993/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rama7993/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rama7993/Coding/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rama7993/Coding/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rama7993/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rama7993/Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rama7993/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rama7993/Coding/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rama7993/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rama7993/Coding/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
