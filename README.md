@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rama7993/Coding/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rama7993/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rama7993/Coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rama7993/Coding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rama7993/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rama7993/Coding/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rama7993/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rama7993/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rama7993/Coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rama7993/Coding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rama7993/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
