@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/rama7993/Coding/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/rama7993/Coding/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/rama7993/Coding/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/rama7993/Coding/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/rama7993/Coding/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/rama7993/Coding/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rama7993/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
