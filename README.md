@@ -782,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rama7993/Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/rama7993/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rama7993/Coding/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/rama7993/Coding/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rama7993/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rama7993/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rama7993/Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/rama7993/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rama7993/Coding/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/rama7993/Coding/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rama7993/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rama7993/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -886,4 +888,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/rama7993/Coding/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/rama7993/Coding/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
