@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rama7993/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/rama7993/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/rama7993/Coding/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/rama7993/Coding/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rama7993/Coding/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/rama7993/Coding/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rama7993/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rama7993/Coding/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/rama7993/Coding/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rama7993/Coding/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/rama7993/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/rama7993/Coding/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/rama7993/Coding/tree/master/0820-find-eventual-safe-states) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rama7993/Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/rama7993/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rama7993/Coding/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/rama7993/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rama7993/Coding/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rama7993/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rama7993/Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/rama7993/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rama7993/Coding/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/rama7993/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rama7993/Coding/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rama7993/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
