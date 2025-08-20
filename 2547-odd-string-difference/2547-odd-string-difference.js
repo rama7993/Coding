@@ -3,25 +3,21 @@
  * @return {string}
  */
 var oddString = function (words) {
-    const n = words.length;
-    const mp = new Map();
-
-    for (let k = 0; k < n; k++) {
-        const word = words[k];
-        const m = word.length;
-        const arr = new Array(m - 1);
-        for (let i = 1; i < m; i++) {
-            arr[i - 1] = word.charCodeAt(i) - word.charCodeAt(i - 1);
+    const diff = (w) => {
+        const d = [];
+        for (let i = 1; i < w.length; i++) {
+            d.push(w.charCodeAt(i) - w.charCodeAt(i - 1));
         }
-        const key = JSON.stringify(arr);
-        if (mp.has(key)) {
-            mp.set(key, [...mp.get(key), word]);
-        } else {
-            mp.set(key, [word]);
-        }
-    }
+        return d.join("#");
+    };
 
-    for (const [key, words] of mp.entries()) {
-        if (words.length === 1) return words[0];
+    const d0 = diff(words[0]);
+    const d1 = diff(words[1]);
+    const d2 = diff(words[2]);
+
+    const majority = (d0 === d1 || d0 === d2) ? d0 : d1 || d2;
+
+    for (const w of words) {
+        if (diff(w) !== majority) return w;
     }
 };
