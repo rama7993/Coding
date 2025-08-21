@@ -4,13 +4,15 @@
  * @return {Array}
  */
 var flat = function (arr, n) {
-    const ans = [];
-    arr.forEach((item, idx) => {
+    let res = [];
+
+    for (const item of arr) {
         if (Array.isArray(item) && n > 0) {
-            ans.push(...flat(item, n - 1));
+            res.push(...flat(item, n - 1))
         } else {
-            ans.push(item);
+            res.push(item);
         }
-    });
-    return ans;
+    }
+
+    return res;
 };
