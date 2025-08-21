@@ -1,14 +1,22 @@
 type MultiDimensionalArray = (number | MultiDimensionalArray)[];
 
 var flat = function (arr: MultiDimensionalArray, n: number): MultiDimensionalArray {
-    const ans = [];
-    for (let elem of arr) {
-        if (Array.isArray(elem) && n > 0) {
-            const flatten = flat(elem, n - 1);
-            ans.push(...flatten)
+    if (n === 0) return arr.slice();
+
+    const stack: [number | MultiDimensionalArray, number][] =
+        arr.map((item) => [item, n]);
+
+    const res: (number | MultiDimensionalArray)[] = [];
+
+    while (stack.length > 0) {
+        const [curr, depth] = stack.pop();
+
+        if (Array.isArray(curr) && depth > 0) {
+            stack.push(...curr.map(el => [el, depth - 1] as [number | MultiDimensionalArray, number]));
         } else {
-            ans.push(elem)
+            res.push(curr);
         }
     }
-    return ans;
+
+    return res.reverse();
 };
