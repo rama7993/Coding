@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/rama7993/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rama7993/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/rama7993/Coding/tree/master/0945-snakes-and-ladders) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rama7993/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/rama7993/Coding/tree/master/0300-longest-increasing-subsequence) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/rama7993/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rama7993/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rama7993/Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/rama7993/Coding/tree/master/2280-count-good-triplets-in-an-array) |
