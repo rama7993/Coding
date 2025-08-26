@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rama7993/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/rama7993/Coding/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rama7993/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rama7993/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/rama7993/Coding/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rama7993/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rama7993/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rama7993/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rama7993/Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
