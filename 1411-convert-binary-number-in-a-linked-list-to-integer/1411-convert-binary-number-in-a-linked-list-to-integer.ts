@@ -11,13 +11,12 @@
  */
 
 function getDecimalValue(head: ListNode | null): number {
-    let sum = 0;
-    let temp = head;
 
-    while (temp) {
-        sum = sum * 2 + temp.val
-        temp = temp.next;
+    const helper = (node) => {
+        if (node === null) return [0, 0];
+        const [val, len] = helper(node.next);
+        return [node.val << len | val, len + 1]; //[val + (node.val * (2 ** len)),len+1]
     }
 
-    return sum;
+    return helper(head)[0];
 };
