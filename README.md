@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rama7993/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/rama7993/Coding/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rama7993/Coding/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/rama7993/Coding/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rama7993/Coding/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rama7993/Coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/rama7993/Coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rama7993/Coding/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/rama7993/Coding/tree/master/3462-vowels-game-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/rama7993/Coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/rama7993/Coding/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/rama7993/Coding/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/rama7993/Coding/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/rama7993/Coding/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rama7993/Coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/rama7993/Coding/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -966,4 +969,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/rama7993/Coding/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/rama7993/Coding/tree/master/0374-guess-number-higher-or-lower) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/rama7993/Coding/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
