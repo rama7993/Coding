@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/rama7993/Coding/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1006-vowel-spellchecker](https://github.com/rama7993/Coding/tree/master/1006-vowel-spellchecker) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rama7993/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/rama7993/Coding/tree/master/1073-number-of-enclaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rama7993/Coding/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/rama7993/Coding/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rama7993/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/rama7993/Coding/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rama7993/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/rama7993/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/rama7993/Coding/tree/master/1170-shortest-common-supersequence) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rama7993/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/rama7993/Coding/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/rama7993/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rama7993/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rama7993/Coding/tree/master/1227-number-of-equivalent-domino-pairs) |
