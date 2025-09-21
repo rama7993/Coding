@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rama7993/Coding/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/rama7993/Coding/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/rama7993/Coding/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/rama7993/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/rama7993/Coding/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rama7993/Coding/tree/master/0540-single-element-in-a-sorted-array) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/rama7993/Coding/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/rama7993/Coding/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2118-maximum-earnings-from-taxi](https://github.com/rama7993/Coding/tree/master/2118-maximum-earnings-from-taxi) |
