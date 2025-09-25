@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rama7993/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rama7993/Coding/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/rama7993/Coding/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/rama7993/Coding/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rama7993/Coding/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rama7993/Coding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rama7993/Coding/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/rama7993/Coding/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/rama7993/Coding/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/rama7993/Coding/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/rama7993/Coding/tree/master/0300-longest-increasing-subsequence) |
