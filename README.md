@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/rama7993/Coding/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rama7993/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/rama7993/Coding/tree/master/1073-number-of-enclaves) |
+| [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rama7993/Coding/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/rama7993/Coding/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rama7993/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
+| [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rama7993/Coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rama7993/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rama7993/Coding/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
+| [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rama7993/Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/rama7993/Coding/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rama7993/Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/rama7993/Coding/tree/master/1018-largest-perimeter-triangle) |
+| [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [2118-maximum-earnings-from-taxi](https://github.com/rama7993/Coding/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rama7993/Coding/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rama7993/Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -743,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/rama7993/Coding/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rama7993/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/rama7993/Coding/tree/master/2048-build-array-from-permutation) |
