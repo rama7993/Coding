@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rama7993/Coding/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rama7993/Coding/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/rama7993/Coding/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rama7993/Coding/tree/master/0198-house-robber) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rama7993/Coding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rama7993/Coding/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/rama7993/Coding/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rama7993/Coding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/rama7993/Coding/tree/master/0205-isomorphic-strings) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rama7993/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rama7993/Coding/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/rama7993/Coding/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rama7993/Coding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rama7993/Coding/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/rama7993/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/rama7993/Coding/tree/master/0212-word-search-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rama7993/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rama7993/Coding/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rama7993/Coding/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/rama7993/Coding/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/rama7993/Coding/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/rama7993/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rama7993/Coding/tree/master/0322-coin-change) |
@@ -995,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rama7993/Coding/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/rama7993/Coding/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Linked List
 |  |
