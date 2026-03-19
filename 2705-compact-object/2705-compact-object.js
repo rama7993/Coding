@@ -4,15 +4,24 @@
  */
 var compactObject = function (obj) {
     if (obj === null) return null;
-    if (Array.isArray(obj)) {
-        return obj.filter(Boolean).map(compactObject);
-    }
-    if (typeof obj !== "object") return obj;
 
-    const mp = {};
-    for (const key in obj) {
-        let value = compactObject(obj[key]);
-        if (value) mp[key] = value;
+    if (Array.isArray(obj)) {
+        const arr = [];
+        obj.forEach((val, idx) => {
+            const value = compactObject(val);
+            if (value) arr.push(value);
+        })
+        return arr;
     }
-    return mp;
+
+    else if (typeof obj === 'object') {
+        const mp = {};
+        for (const [key, val] of Object.entries(obj)) {
+            const value = compactObject(val);
+            if (value) mp[key] = value;
+        }
+        return mp;
+    }
+
+    return obj;
 };
