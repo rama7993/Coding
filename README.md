@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rama7993/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rama7993/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rama7993/Coding/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rama7993/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rama7993/Coding/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rama7993/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rama7993/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/rama7993/Coding/tree/master/0567-permutation-in-string) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rama7993/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -963,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rama7993/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rama7993/Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/rama7993/Coding/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/rama7993/Coding/tree/master/2527-count-subarrays-with-fixed-bounds) |
