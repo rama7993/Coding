@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/rama7993/Coding/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/rama7993/Coding/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/rama7993/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/rama7993/Coding/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rama7993/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rama7993/Coding/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/rama7993/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/rama7993/Coding/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/rama7993/Coding/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/rama7993/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rama7993/Coding/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/rama7993/Coding/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/rama7993/Coding/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/rama7993/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/rama7993/Coding/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/rama7993/Coding/tree/master/0647-palindromic-substrings) |
