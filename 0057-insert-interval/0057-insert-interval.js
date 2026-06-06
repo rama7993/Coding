@@ -4,21 +4,30 @@
  * @return {number[][]}
  */
 var insert = function (intervals, newInterval) {
-    intervals.push(newInterval);
-    intervals.sort(([a], [b]) => a - b);
-    const merged = [intervals[0]];
     const n = intervals.length;
+    let i = 0;
+    const merged = [];
 
-    for (let i = 1; i < n; i++) {
-        const curr = intervals[i];
-        const prev = merged.at(-1);
-
-        if (curr[0] <= prev[1]) {
-            prev[1] = Math.max(curr[1], prev[1]);
-        } else {
-            merged.push(curr);
-        }
+    // Add intervals before new Interval
+    while (i < n && intervals[i][1] < newInterval[0]) {
+        merged.push(intervals[i]);
+        i++;
     }
+
+    //Merge intervals
+    while (i < n && intervals[i][0] <= newInterval[1]) {
+        newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
+        newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
+        i++;
+    }
+    merged.push(newInterval);
+
+    // Add remaining 
+    while (i < n) {
+        merged.push(intervals[i]);
+        i++;
+    }
+
 
     return merged;
 };
