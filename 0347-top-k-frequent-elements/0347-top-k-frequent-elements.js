@@ -5,10 +5,18 @@
  */
 var topKFrequent = function (nums, k) {
     const mp = new Map();
+    const pq = new MinPriorityQueue(item => item.freq);
 
     for (const num of nums) {
         mp.set(num, (mp.get(num) || 0) + 1)
     }
 
-    return Array.from(mp.keys()).sort((a, b) => mp.get(b) - mp.get(a)).slice(0, k);
+    for (const [key, val] of mp) {
+        pq.enqueue({ key, freq: val });
+        if (pq.size() > k) {
+            pq.dequeue();
+        }
+    }
+
+    return pq.toArray().map(item => item.key);
 };
