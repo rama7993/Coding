@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rama7993/Coding/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/rama7993/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rama7993/Coding/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/rama7993/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/rama7993/Coding/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/rama7993/Coding/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/rama7993/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rama7993/Coding/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/rama7993/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rama7993/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rama7993/Coding/tree/master/0424-longest-repeating-character-replacement) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rama7993/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rama7993/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rama7993/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rama7993/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/rama7993/Coding/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/rama7993/Coding/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/rama7993/Coding/tree/master/0435-non-overlapping-intervals) |
@@ -768,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rama7993/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/rama7993/Coding/tree/master/2280-count-good-triplets-in-an-array) |
 ## Simulation
@@ -1051,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rama7993/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
 ## Binary Search Tree
@@ -1073,4 +1080,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rama7993/Coding/tree/master/0830-largest-triangle-area) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rama7993/Coding/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
