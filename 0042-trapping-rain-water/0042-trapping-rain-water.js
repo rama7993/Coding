@@ -4,22 +4,21 @@
  */
 var trap = function (height) {
     const n = height.length;
-    const prefix = new Array(n).fill(0);
-    const suffix = new Array(n).fill(0);
-    prefix[0] = height[0];
-    for (let i = 1; i < n; i++) {
-        prefix[i] = Math.max(prefix[i - 1], height[i]);
-    }
-    suffix[n - 1] = height[n - 1];
-    for (let i = n - 2; i >= 0; i--) {
-        suffix[i] = Math.max(suffix[i + 1], height[i]);
-    }
-
+    let left = 0, right = n - 1;
+    let leftMax = 0, rightMax = 0;
     let res = 0;
-    for (let i = 0; i < n; i++) {
-        res += Math.min(prefix[i], suffix[i]) - height[i];
+
+    while (left < right) {
+        if (height[left] < height[right]) {
+            leftMax = Math.max(height[left], leftMax);
+            res += leftMax - height[left];
+            left++;
+        } else {
+            rightMax = Math.max(height[right], rightMax);
+            res += rightMax - height[right];
+            right--;
+        }
     }
 
     return res;
-
 };
