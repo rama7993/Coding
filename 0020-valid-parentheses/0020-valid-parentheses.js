@@ -3,21 +3,22 @@
  * @return {boolean}
  */
 var isValid = function (s) {
-    const pairs = {
-        '(': ')',
-        '{': '}',
-        '[': ']',
-    };
-
     const stack = [];
-    for (let char of s) {
-        if (pairs[char]) {
-            stack.push(pairs[char]);
-        } else {
-            if (stack.length === 0 || stack.pop() !== char) {
-                return false;
-            }
+    const pairs = {
+        '{': '}',
+        '(': ')',
+        '[': ']'
+    }
+
+    for (const char of s) {
+        const top = stack.at(-1);
+        if (char === pairs[top]) {
+            stack.pop();
+        }
+        else {
+            stack.push(char);
         }
     }
+
     return stack.length === 0;
 };
