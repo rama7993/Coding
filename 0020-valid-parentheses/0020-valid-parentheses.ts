@@ -1,19 +1,20 @@
 function isValid(s: string): boolean {
-    const st = [];
-    for (let char of s) {
-        if (char === '(') {
-            st.push(')')
-        } else if (char === '{') {
-            st.push('}')
-        } else if (char === '[') {
-            st.push(']')
-        } else {
-            if (st.length === 0 || st[st.length - 1] !== char) {
-                return false;
-            }
-            st.pop();
+    const stack: string[] = [];
+
+    const openingTags: string[] = ['(', '{', '['];
+    const pairs: Record<string, string> = {
+        '}': '{',
+        ')': '(',
+        ']': '['
+    }
+
+
+    for (const char of s) {
+        if (openingTags.includes(char)) stack.push(char);
+        else {
+            if (stack.length == 0 || stack.pop() !== pairs[char]) return false;
         }
     }
 
-    return st.length === 0;
+    return stack.length === 0;
 };
