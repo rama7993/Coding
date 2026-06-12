@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/rama7993/Coding/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0994-rotting-oranges](https://github.com/rama7993/Coding/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/rama7993/Coding/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/rama7993/Coding/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rama7993/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/rama7993/Coding/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/rama7993/Coding/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/rama7993/Coding/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/rama7993/Coding/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rama7993/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rama7993/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/rama7993/Coding/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/rama7993/Coding/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/rama7993/Coding/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rama7993/Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rama7993/Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
