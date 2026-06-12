@@ -3,27 +3,29 @@
  * @return {number}
  */
 var numIslands = function (grid) {
-    const m = grid.length, n = grid[0].length;
-    const visited = Array.from({ length: m }, () => Array(n).fill(false));
-    let islands = 0;
+    const m = grid.length;
+    const n = grid[0].length;
     const dir = [[0, 1], [0, -1], [1, 0], [-1, 0]];
+    let cnt = 0;
 
-    const dfs = (i, j) => {
-        if (i < 0 || i >= m || j < 0 || j >= n || visited[i][j] || grid[i][j] !== '1') return;
-        visited[i][j] = true;
 
+    const dfs = (x, y) => {
+        if (x < 0 || x >= m || y < 0 || y >= n || grid[x][y] === '0') return 0;
+
+        grid[x][y] = '0' //visited;
         for (const [dx, dy] of dir) {
-            dfs(i + dx, j + dy);
+            dfs(x + dx, y + dy)
         }
+        return 1;
     }
 
     for (let i = 0; i < m; i++) {
         for (let j = 0; j < n; j++) {
-            if (grid[i][j] === '1' && !visited[i][j]) {
-                islands++;
-                dfs(i, j);
+            if (grid[i][j] === '1') {
+                cnt += dfs(i, j);
             }
         }
     }
-    return islands;
+
+    return cnt;
 };
