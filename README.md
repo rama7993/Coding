@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rama7993/Coding/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rama7993/Coding/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rama7993/Coding/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2384-largest-palindromic-number](https://github.com/rama7993/Coding/tree/master/2384-largest-palindromic-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/rama7993/Coding/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rama7993/Coding/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rama7993/Coding/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rama7993/Coding/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rama7993/Coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rama7993/Coding/tree/master/2308-divide-array-into-equal-pairs) |
+| [2384-largest-palindromic-number](https://github.com/rama7993/Coding/tree/master/2384-largest-palindromic-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/rama7993/Coding/tree/master/2427-first-letter-to-appear-twice) |
 | [2434-design-a-number-container-system](https://github.com/rama7993/Coding/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/rama7993/Coding/tree/master/2448-count-number-of-bad-pairs) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rama7993/Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rama7993/Coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rama7993/Coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2384-largest-palindromic-number](https://github.com/rama7993/Coding/tree/master/2384-largest-palindromic-number) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rama7993/Coding/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rama7993/Coding/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/rama7993/Coding/tree/master/2509-minimize-xor) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/rama7993/Coding/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rama7993/Coding/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rama7993/Coding/tree/master/2308-divide-array-into-equal-pairs) |
+| [2384-largest-palindromic-number](https://github.com/rama7993/Coding/tree/master/2384-largest-palindromic-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/rama7993/Coding/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/rama7993/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rama7993/Coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
