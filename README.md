@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rama7993/Coding/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rama7993/Coding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rama7993/Coding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/rama7993/Coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1876-map-of-highest-peak](https://github.com/rama7993/Coding/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rama7993/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rama7993/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rama7993/Coding/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rama7993/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rama7993/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/rama7993/Coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2118-maximum-earnings-from-taxi](https://github.com/rama7993/Coding/tree/master/2118-maximum-earnings-from-taxi) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rama7993/Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/rama7993/Coding/tree/master/2280-count-good-triplets-in-an-array) |
