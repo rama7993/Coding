@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rama7993/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rama7993/Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/rama7993/Coding/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rama7993/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rama7993/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rama7993/Coding/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rama7993/Coding/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/rama7993/Coding/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/rama7993/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rama7993/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rama7993/Coding/tree/master/1477-product-of-the-last-k-numbers) |
