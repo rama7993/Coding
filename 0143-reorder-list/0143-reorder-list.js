@@ -10,19 +10,29 @@
  * @return {void} Do not return anything, modify head in-place instead.
  */
 var reorderList = function (head) {
-    let curr = head;
-    const nodes = [];
-
-    while (curr) {
-        nodes.push(curr);
-        curr = curr.next;
+    let slow = head, fast = head;
+    while (fast && fast.next) {
+        slow = slow.next;
+        fast = fast.next.next;
     }
-
-    let i = 0, j = nodes.length - 1;
-
-    while (i < j) {
-        nodes[i].next = nodes[j]; i++;
-        nodes[j].next = nodes[i]; j--;
-    }
-    nodes[i].next = null;
+    const rHead = reverse(slow.next);
+    slow.next = null;
+    alternateMerge(head, rHead);
 };
+
+var reverse = (head) => {
+    if (!head || !head.next) return head;
+    const newHead = reverse(head.next);
+    head.next.next = head;
+    head.next = null;
+    return newHead;
+}
+
+var alternateMerge = (l1, l2) => {
+    if (!l1) return l2;
+    if (!l2) return l1;
+    let next1 = l1.next, next2 = l2.next;
+    l1.next = l2;
+    l2.next = alternateMerge(next1, next2);
+    return l1;
+}
