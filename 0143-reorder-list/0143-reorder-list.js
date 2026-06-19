@@ -21,18 +21,27 @@ var reorderList = function (head) {
 };
 
 var reverse = (head) => {
-    if (!head || !head.next) return head;
-    const newHead = reverse(head.next);
-    head.next.next = head;
-    head.next = null;
-    return newHead;
+    let prev = null;
+    let curr = head;
+
+    while (curr) {
+        let next = curr.next;
+
+        curr.next = prev;
+        prev = curr;
+        curr = next;
+    }
+
+    return prev;
 }
 
 var alternateMerge = (l1, l2) => {
-    if (!l1) return l2;
-    if (!l2) return l1;
-    let next1 = l1.next, next2 = l2.next;
-    l1.next = l2;
-    l2.next = alternateMerge(next1, next2);
-    return l1;
+    while (l1 && l2) {
+        let next1 = l1.next;
+        let next2 = l2.next;
+        l1.next = l2;
+        l2.next = next1;
+        l1 = next1;
+        l2 = next2;
+    }
 }
