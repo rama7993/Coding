@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rama7993/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rama7993/Coding/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/rama7993/Coding/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rama7993/Coding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rama7993/Coding/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rama7993/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rama7993/Coding/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/rama7993/Coding/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/rama7993/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/rama7993/Coding/tree/master/0146-lru-cache) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rama7993/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/rama7993/Coding/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rama7993/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rama7993/Coding/tree/master/0567-permutation-in-string) |
