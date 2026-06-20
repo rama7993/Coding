@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/rama7993/Coding/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/rama7993/Coding/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/rama7993/Coding/tree/master/1018-largest-perimeter-triangle) |
+| [1046-last-stone-weight](https://github.com/rama7993/Coding/tree/master/1046-last-stone-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rama7993/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/rama7993/Coding/tree/master/1073-number-of-enclaves) |
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/rama7993/Coding/tree/master/1046-last-stone-weight) |
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rama7993/Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/rama7993/Coding/tree/master/2434-design-a-number-container-system) |
