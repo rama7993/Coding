@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rama7993/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rama7993/Coding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rama7993/Coding/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rama7993/Coding/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rama7993/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rama7993/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rama7993/Coding/tree/master/0088-merge-sorted-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/rama7993/Coding/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rama7993/Coding/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rama7993/Coding/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rama7993/Coding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rama7993/Coding/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rama7993/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rama7993/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rama7993/Coding/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rama7993/Coding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rama7993/Coding/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rama7993/Coding/tree/master/0212-word-search-ii) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rama7993/Coding/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/rama7993/Coding/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rama7993/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rama7993/Coding/tree/master/0101-symmetric-tree) |
@@ -977,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rama7993/Coding/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rama7993/Coding/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/rama7993/Coding/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rama7993/Coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rama7993/Coding/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/rama7993/Coding/tree/master/0212-word-search-ii) |
 | [1160-letter-tile-possibilities](https://github.com/rama7993/Coding/tree/master/1160-letter-tile-possibilities) |
