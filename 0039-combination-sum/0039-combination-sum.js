@@ -7,22 +7,22 @@ var combinationSum = function (candidates, target) {
     const res = [];
     let ans = [];
     const n = candidates.length;
+    candidates.sort((a, b) => a - b); // Sort to enable pruning
 
-    const traversal = (idx, target) => {
-        if (target < 0) return;
-
-        if (target === 0) {
+    const traversal = (idx, sum) => {
+        if (target === sum) {
             res.push([...ans]);
             return;
         }
 
         for (let i = idx; i < n; i++) {
+            if (sum + candidates[i] > target) break;
             ans.push(candidates[i]);
-            traversal(i, target - candidates[i]);
+            traversal(i, sum + candidates[i]);
             ans.pop();
         }
     }
 
-    traversal(0, target);
+    traversal(0, 0);
     return res;
 };
