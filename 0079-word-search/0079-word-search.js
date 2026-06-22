@@ -6,22 +6,18 @@
 var exist = function (board, word) {
     const m = board.length, n = board[0].length;
     const dirs = [[0, 1], [0, -1], [1, 0], [-1, 0]];
-    const visited = Array.from({ length: m }, () => Array(n).fill(false));
 
     const dfs = (i, j, idx) => {
-        if (i >= m || i < 0 || j >= n || j < 0 || visited[i][j] || board[i][j] !== word[idx]) return false;
+        if (i >= m || i < 0 || j >= n || j < 0 || board[i][j] === '#' || board[i][j] !== word[idx]) return false;
 
         if (idx === word.length - 1) return true;
 
-        visited[i][j] = true;
-        let found = false;
+        const temp = board[i][j];
+        board[i][j] = '#'; // visited
         for (const [dx, dy] of dirs) {
-            found = found || dfs(i + dx, j + dy, idx + 1);
+            if (dfs(i + dx, j + dy, idx + 1)) return true;
         }
-
-        visited[i][j] = false;
-        return found;
-
+        board[i][j] = temp;
     }
 
     for (let i = 0; i < m; i++) {
