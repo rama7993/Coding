@@ -30,7 +30,7 @@ function findWords(board: string[][], words: string[]): string[] {
         root.insert(word);
     }
 
-    const result: Set<string> = new Set();
+    const result = [];
     const m = board.length;
     const n = board[0].length;
 
@@ -43,7 +43,8 @@ function findWords(board: string[][], words: string[]): string[] {
 
         const newPath = path + char;
         if (nextNode.isEnd) {
-            result.add(newPath);
+            result.push(newPath);
+            nextNode.isEnd = false;
         }
 
         board[i][j] = '#'; // mark visited
@@ -62,5 +63,5 @@ function findWords(board: string[][], words: string[]): string[] {
         }
     }
 
-    return Array.from(result);
+    return result;
 }
