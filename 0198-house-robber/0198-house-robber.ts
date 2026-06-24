@@ -1,15 +1,14 @@
 function rob(nums: number[]): number {
     const n = nums.length;
-    const memo = Array(n).fill(-1);
 
-    const ways = (i: number) => {
-        if (i >= n) return 0;
-        if (memo[i] !== -1) return memo[i];
-        const way1 = nums[i] + ways(i + 2);
-        const way2 = ways(i + 1);
-        memo[i] = Math.max(way1, way2);
-        return memo[i];
+    let rob1 = 0; // till i-2;
+    let rob2 = 0; // till i-1;
+
+    for (const num of nums) {
+        const temp = Math.max(num + rob1, rob2);
+        rob1 = rob2;
+        rob2 = temp;
     }
 
-    return ways(0);
+    return rob2;
 };
