@@ -1,21 +1,20 @@
 function longestPalindrome(s: string): string {
     const n = s.length;
-    let start = 0, end = 0;
+    const dp = Array.from({ length: n }, () => Array(n).fill(false)); //dp[i][j] = s[i] === s[j] && dp[i + 1][j - 1];
+    let start = 0, maxLen = 1;
 
-    const expand = (i, j) => {
-        while (i >= 0 && j < n && s[i] === s[j]) {
-            if (j - i > end - start) {
-                start = i;
-                end = j;
+    for (let i = n - 1; i >= 0; i--) {
+        for (let j = i; j < n; j++) {
+            if (s[i] === s[j] && (j - i <= 2 || dp[i + 1][j - 1])) {
+                dp[i][j] = true;
+                if (j - i + 1 > maxLen) {
+                    start = i;
+                    maxLen = j - i + 1;
+                }
             }
-            i--; j++;
+
         }
     }
 
-    for (let mid = 0; mid < n; mid++) {
-        expand(mid, mid);
-        expand(mid, mid + 1);
-    }
-
-    return s.slice(start, end + 1);
+    return s.substring(start, start + maxLen);
 };
