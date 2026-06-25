@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/rama7993/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/rama7993/Coding/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/rama7993/Coding/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/rama7993/Coding/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/rama7993/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/rama7993/Coding/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/rama7993/Coding/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rama7993/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
