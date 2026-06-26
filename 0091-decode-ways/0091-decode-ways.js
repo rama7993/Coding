@@ -4,18 +4,22 @@
  */
 var numDecodings = function (s) {
     const n = s.length;
-    const memo = {};
+    const dp = Array(n + 1).fill(0);
+    dp[n] = 1;
 
-    const dfs = (idx) => {
-        if (idx >= n) return 1;
-        if (s[idx] === '0') return 0;
-        if (memo[idx]) return memo[idx];
-        let ways = dfs(idx + 1);
-        if (idx + 1 < n && (s[idx] === '1' || (s[idx] === '2' && s[idx + 1] <= '6'))) {
-            ways += dfs(idx + 2);
+    for (let i = n - 1; i >= 0; i--) {
+        if (s[i] === '0') {
+            dp[i] = 0;
+            continue;
         }
-        return memo[idx] = ways;
+        let ways = dp[i + 1];
+        if (
+            i + 1 < n &&
+            (s[i] === '1' || (s[i] === '2' && s[i + 1] <= '6'))
+        ) {
+            ways += dp[i + 2];
+        }
+        dp[i] = ways;
     }
-
-    return dfs(0);
+    return dp[0];
 };
