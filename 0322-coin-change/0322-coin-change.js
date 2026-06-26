@@ -5,21 +5,17 @@
  */
 var coinChange = function (coins, amount) {
     const n = coins.length;
-    const memo = {};
+    const dp = Array(amount + 1).fill(Infinity); // min coins to make amount
+    dp[0] = 0;
 
-    const dfs = (i, target) => {
-        if (target === 0) return 0;
-        if (target < 0 || i >= n) return Infinity;
-
-        const key = `${i}#${target}`;
-        if (key in memo) return memo[key];
-
-        let take = 1 + dfs(i, target - coins[i]);
-        let skip = dfs(i + 1, target);
-        return memo[key] = Math.min(take, skip);
+    for (let target = 1; target <= amount; target++) {
+        for (const coin of coins) {//target for each coin
+            if (target >= coin) {
+                let subProb = dp[target - coin];
+                dp[target] = Math.min(dp[target], 1 + subProb);
+            }
+        }
     }
 
-    const ans = dfs(0, amount);
-    return ans === Infinity ? -1 : ans;
-
+    return dp[amount] === Infinity ? -1 : dp[amount];
 };
