@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rama7993/Coding/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rama7993/Coding/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/rama7993/Coding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rama7993/Coding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rama7993/Coding/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/rama7993/Coding/tree/master/0073-set-matrix-zeroes) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rama7993/Coding/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/rama7993/Coding/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/rama7993/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rama7993/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rama7993/Coding/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rama7993/Coding/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/rama7993/Coding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rama7993/Coding/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rama7993/Coding/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/rama7993/Coding/tree/master/0118-pascals-triangle) |
