@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rama7993/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rama7993/Coding/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/rama7993/Coding/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rama7993/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rama7993/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rama7993/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rama7993/Coding/tree/master/0169-majority-element) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rama7993/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rama7993/Coding/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rama7993/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rama7993/Coding/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rama7993/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rama7993/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rama7993/Coding/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/rama7993/Coding/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rama7993/Coding/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rama7993/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rama7993/Coding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rama7993/Coding/tree/master/0231-power-of-two) |
