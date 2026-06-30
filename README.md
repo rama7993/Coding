@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rama7993/Coding/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/rama7993/Coding/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/rama7993/Coding/tree/master/0766-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/rama7993/Coding/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/rama7993/Coding/tree/master/0766-toeplitz-matrix) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/rama7993/Coding/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/rama7993/Coding/tree/master/0994-rotting-oranges) |
