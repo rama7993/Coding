@@ -21,8 +21,8 @@ var longestPalindrome = function (words) {
         } else if (mp.has(rev)) {
             const pairs = Math.min(freq, mp.get(rev));
             cnt += pairs * 4;
-            mp.set(word, 0);
-            mp.set(rev, 0);
+            mp.set(word, mp.get(word) - pairs);
+            mp.set(rev, mp.get(rev) - pairs);
         }
     }
 
