@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/rama7993/Coding/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
+| [0954-array-of-doubled-pairs](https://github.com/rama7993/Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0994-rotting-oranges](https://github.com/rama7993/Coding/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/rama7993/Coding/tree/master/1006-vowel-spellchecker) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rama7993/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rama7993/Coding/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rama7993/Coding/tree/master/0952-word-subsets) |
+| [0954-array-of-doubled-pairs](https://github.com/rama7993/Coding/tree/master/0954-array-of-doubled-pairs) |
 | [1006-vowel-spellchecker](https://github.com/rama7993/Coding/tree/master/1006-vowel-spellchecker) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rama7993/Coding/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/rama7993/Coding/tree/master/1160-letter-tile-possibilities) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rama7993/Coding/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/rama7993/Coding/tree/master/0890-lemonade-change) |
+| [0954-array-of-doubled-pairs](https://github.com/rama7993/Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rama7993/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/rama7993/Coding/tree/master/1018-largest-perimeter-triangle) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
+| [0954-array-of-doubled-pairs](https://github.com/rama7993/Coding/tree/master/0954-array-of-doubled-pairs) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rama7993/Coding/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/rama7993/Coding/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
