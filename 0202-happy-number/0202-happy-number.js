@@ -3,13 +3,14 @@
  * @return {boolean}
  */
 var isHappy = function (n) {
-    const seen = new Set();
-    while (!seen.has(n)) {
-        seen.add(n);
-        n = squareSum(n);
-        if (n === 1) return true;
-    }
-    return false;
+    let slow = n, fast = n;
+
+    do {
+        slow = squareSum(slow);
+        fast = squareSum(squareSum(fast));
+    } while (slow !== fast);
+
+    return slow === 1; // fast===1
 };
 
 var squareSum = function (n) {
