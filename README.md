@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rama7993/Coding/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rama7993/Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rama7993/Coding/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/rama7993/Coding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rama7993/Coding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rama7993/Coding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rama7993/Coding/tree/master/0057-insert-interval) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rama7993/Coding/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rama7993/Coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rama7993/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rama7993/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rama7993/Coding/tree/master/0079-word-search) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rama7993/Coding/tree/master/0054-spiral-matrix) |
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/rama7993/Coding/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rama7993/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
