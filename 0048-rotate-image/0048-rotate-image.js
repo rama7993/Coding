@@ -4,19 +4,14 @@
  */
 var rotate = function (matrix) {
     const n = matrix.length;
-    // (i,j) => (j, n-1-i)
-    const rotated = Array.from({ length: n }, () => Array(n));
+    matrix.reverse() //reverse columns
 
+
+    //transpose
     for (let i = 0; i < n; i++) {
-        for (let j = 0; j < n; j++) {
-            rotated[j][n - 1 - i] = matrix[i][j];
+        for (let j = i + 1; j < n; j++) {
+            [matrix[i][j], matrix[j][i]] = [matrix[j][i], matrix[i][j]]
         }
     }
 
-
-    for (let i = 0; i < n; i++) {
-        for (let j = 0; j < n; j++) {
-            matrix[i][j] = rotated[i][j];
-        }
-    }
 };
