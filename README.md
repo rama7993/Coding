@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/rama7993/Coding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rama7993/Coding/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/rama7993/Coding/tree/master/0746-min-cost-climbing-stairs) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rama7993/Coding/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rama7993/Coding/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rama7993/Coding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/rama7993/Coding/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/rama7993/Coding/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/rama7993/Coding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/rama7993/Coding/tree/master/0766-toeplitz-matrix) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rama7993/Coding/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/rama7993/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/rama7993/Coding/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rama7993/Coding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/rama7993/Coding/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rama7993/Coding/tree/master/0854-making-a-large-island) |
@@ -1243,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rama7993/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rama7993/Coding/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rama7993/Coding/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
