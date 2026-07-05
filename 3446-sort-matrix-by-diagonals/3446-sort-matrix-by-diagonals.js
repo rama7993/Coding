@@ -18,12 +18,12 @@ var sortMatrix = function (grid) {
 
 
     for (const [key, val] of mp) {
-        val.sort((a, b) => key <= 0 ? b - a : a - b);
+        val.sort((a, b) => key <= 0 ? a - b : b - a);
     }
 
     for (let i = 0; i < n; i++) {
         for (let j = 0; j < n; j++) {
-            grid[i][j] = mp.get(j - i).shift();
+            grid[i][j] = mp.get(j - i).pop();
         }
     }
 
