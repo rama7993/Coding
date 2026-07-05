@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/rama7993/Coding/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rama7993/Coding/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rama7993/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-diagonal-traverse-ii](https://github.com/rama7993/Coding/tree/master/1424-diagonal-traverse-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rama7993/Coding/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rama7993/Coding/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rama7993/Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/rama7993/Coding/tree/master/1046-last-stone-weight) |
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
+| [1424-diagonal-traverse-ii](https://github.com/rama7993/Coding/tree/master/1424-diagonal-traverse-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rama7993/Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/rama7993/Coding/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rama7993/Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/rama7993/Coding/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rama7993/Coding/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1424-diagonal-traverse-ii](https://github.com/rama7993/Coding/tree/master/1424-diagonal-traverse-ii) |
 | [2118-maximum-earnings-from-taxi](https://github.com/rama7993/Coding/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rama7993/Coding/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rama7993/Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
