@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/rama7993/Coding/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/rama7993/Coding/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rama7993/Coding/tree/master/0342-power-of-four) |
+| [0868-binary-gap](https://github.com/rama7993/Coding/tree/master/0868-binary-gap) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rama7993/Coding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rama7993/Coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rama7993/Coding/tree/master/2308-divide-array-into-equal-pairs) |
