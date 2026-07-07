@@ -3,28 +3,12 @@
  * @return {string[]}
  */
 var findWords = function (words) {
-    const map = {}; // ch -> row;
+    const rows = ["qwertyuiop", "asdfghjkl", "zxcvbnm"];
 
-    for (const ch of "qwertyuiop") map[ch] = 1;
-    for (const ch of "asdfghjkl") map[ch] = 2;
-    for (const ch of "zxcvbnm") map[ch] = 3;
-
-    const ans = [];
-
-    for (const word of words) {
+    return words.filter((word) => {
         const lower = word.toLowerCase();
-        const row = map[lower[0]];
+        const row = rows.find(r => r.includes(lower[0]));
+        return [...lower].every(ch => row.includes(ch));
+    })
 
-        let ok = true;
-        for (const ch of lower) {
-            if (map[ch] !== row) {
-                ok = false;
-                break;
-            }
-        }
-
-        if (ok) ans.push(word);
-    }
-
-    return ans;
 };
