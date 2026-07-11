@@ -6,17 +6,28 @@
 var topKFrequent = function (words, k) {
     const mp = new Map();
 
-    for (let strg of words) {
-        mp.set(strg, (mp.get(strg) || 0) + 1);
+    for (const word of words) {
+        mp.set(word, (mp.get(word) || 0) + 1);
     }
 
-    const sorted = [...mp.keys()].sort((a, b) => {
-        if (mp.get(b) === mp.get(a)) {
-            return a.localeCompare(b);
-        }
-        return mp.get(b) - mp.get(a)
+    const pq = new MinPriorityQueue({
+        compare: (a, b) => a.freq === b.freq ? b.word.localeCompare(a.word) : a.freq - b.freq
     });
 
-    return sorted.slice(0, k);
+    for (const [word, freq] of mp) {
+        pq.enqueue({ word, freq });
 
+        console.log(pq.front());
+
+        if (pq.size() > k) {
+            pq.dequeue();
+        }
+    }
+
+    const res = [];
+    while (!pq.isEmpty()) {
+        res.push(pq.dequeue().word);
+    }
+
+    return res.reverse();
 };
