@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rama7993/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rama7993/Coding/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rama7993/Coding/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/rama7993/Coding/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/rama7993/Coding/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/rama7993/Coding/tree/master/0567-permutation-in-string) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rama7993/Coding/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rama7993/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rama7993/Coding/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/rama7993/Coding/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/rama7993/Coding/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rama7993/Coding/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
