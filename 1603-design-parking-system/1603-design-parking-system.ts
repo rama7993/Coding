@@ -1,0 +1,22 @@
+class ParkingSystem {
+    private parking = [];
+
+    constructor(big: number, medium: number, small: number) {
+        this.parking = [big, medium, small];
+    }
+
+    addCar(carType: number): boolean {
+        if (this.parking[carType - 1] > 0) {
+            this.parking[carType - 1] -= 1;
+            return true;
+        }
+        return false;
+    }
+}
+
+/**
+ * Your ParkingSystem object will be instantiated and called as such:
+ * var obj = new ParkingSystem(big, medium, small)
+ * var param_1 = obj.addCar(carType)
+ */
+
