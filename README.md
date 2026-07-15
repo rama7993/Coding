@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rama7993/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/rama7993/Coding/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rama7993/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/rama7993/Coding/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/rama7993/Coding/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/rama7993/Coding/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rama7993/Coding/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/rama7993/Coding/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/rama7993/Coding/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rama7993/Coding/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/rama7993/Coding/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/rama7993/Coding/tree/master/1170-shortest-common-supersequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rama7993/Coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rama7993/Coding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
