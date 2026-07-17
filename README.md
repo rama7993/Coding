@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rama7993/Coding/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rama7993/Coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/rama7993/Coding/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2643-row-with-maximum-ones](https://github.com/rama7993/Coding/tree/master/2643-row-with-maximum-ones) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rama7993/Coding/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/rama7993/Coding/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rama7993/Coding/tree/master/2685-first-completely-painted-row-or-column) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rama7993/Coding/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rama7993/Coding/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rama7993/Coding/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2643-row-with-maximum-ones](https://github.com/rama7993/Coding/tree/master/2643-row-with-maximum-ones) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rama7993/Coding/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rama7993/Coding/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/rama7993/Coding/tree/master/3227-find-missing-and-repeated-values) |
