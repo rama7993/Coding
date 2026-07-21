@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/rama7993/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rama7993/Coding/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/rama7993/Coding/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/rama7993/Coding/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/rama7993/Coding/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/rama7993/Coding/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/rama7993/Coding/tree/master/0290-word-pattern) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rama7993/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rama7993/Coding/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/rama7993/Coding/tree/master/0224-basic-calculator) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rama7993/Coding/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/rama7993/Coding/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rama7993/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/rama7993/Coding/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/rama7993/Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rama7993/Coding/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/rama7993/Coding/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rama7993/Coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rama7993/Coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rama7993/Coding/tree/master/0342-power-of-four) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rama7993/Coding/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/rama7993/Coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rama7993/Coding/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/rama7993/Coding/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rama7993/Coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rama7993/Coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rama7993/Coding/tree/master/0342-power-of-four) |
