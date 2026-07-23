@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/rama7993/Coding/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rama7993/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/rama7993/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rama7993/Coding/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rama7993/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rama7993/Coding/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rama7993/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rama7993/Coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rama7993/Coding/tree/master/1477-product-of-the-last-k-numbers) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rama7993/Coding/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/rama7993/Coding/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/rama7993/Coding/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/rama7993/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rama7993/Coding/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/rama7993/Coding/tree/master/0768-partition-labels) |
