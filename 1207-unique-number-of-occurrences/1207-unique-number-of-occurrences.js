@@ -9,5 +9,12 @@ var uniqueOccurrences = function (arr) {
         mp.set(num, (mp.get(num) || 0) + 1);
     }
 
-    return [...mp.values()].length === new Set(mp.values()).size;
+    const set = new Set();
+
+    for (const freq of mp.values()) {
+        if (set.has(freq)) return false;
+        set.add(freq);
+    }
+
+    return true;
 };
