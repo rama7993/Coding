@@ -7,11 +7,7 @@ class KthLargest {
         this.k = k;
 
         for (const num of nums) {
-            this.heap.push(num);
-        }
-
-        while (this.heap.size() > k) {
-            this.heap.pop();
+            this.add(num);
         }
     }
 
