@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rama7993/Coding/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rama7993/Coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rama7993/Coding/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rama7993/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-count-good-triplets](https://github.com/rama7993/Coding/tree/master/1656-count-good-triplets) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/rama7993/Coding/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rama7993/Coding/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rama7993/Coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/rama7993/Coding/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/rama7993/Coding/tree/master/1502-construct-k-palindrome-strings) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rama7993/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/rama7993/Coding/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rama7993/Coding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rama7993/Coding/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/rama7993/Coding/tree/master/1329-sort-the-matrix-diagonally) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rama7993/Coding/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1424-diagonal-traverse-ii](https://github.com/rama7993/Coding/tree/master/1424-diagonal-traverse-ii) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rama7993/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2118-maximum-earnings-from-taxi](https://github.com/rama7993/Coding/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rama7993/Coding/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rama7993/Coding/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
