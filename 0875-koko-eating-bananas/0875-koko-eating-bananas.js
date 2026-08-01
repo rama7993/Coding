@@ -4,7 +4,7 @@
  * @return {number}
  */
 var minEatingSpeed = function (piles, h) {
-    let low = 1, high = Math.max(...piles);
+    let low = 0, high = Math.max(...piles);
 
     const canEat = (k) => {
         const time = piles.reduce(
