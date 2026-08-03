@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1207-unique-number-of-occurrences](https://github.com/rama7993/Coding/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rama7993/Coding/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rama7993/Coding/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/rama7993/Coding/tree/master/1293-three-consecutive-odds) |
 | [1329-sort-the-matrix-diagonally](https://github.com/rama7993/Coding/tree/master/1329-sort-the-matrix-diagonally) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rama7993/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1048,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/rama7993/Coding/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rama7993/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rama7993/Coding/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rama7993/Coding/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/rama7993/Coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2118-maximum-earnings-from-taxi](https://github.com/rama7993/Coding/tree/master/2118-maximum-earnings-from-taxi) |
