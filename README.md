@@ -929,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/rama7993/Coding/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/rama7993/Coding/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/rama7993/Coding/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rama7993/Coding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/rama7993/Coding/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/rama7993/Coding/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rama7993/Coding/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1233,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rama7993/Coding/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rama7993/Coding/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/rama7993/Coding/tree/master/2998-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rama7993/Coding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/rama7993/Coding/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Indexed Tree
 |  |
