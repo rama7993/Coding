@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rama7993/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rama7993/Coding/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/rama7993/Coding/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rama7993/Coding/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/rama7993/Coding/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/rama7993/Coding/tree/master/0692-top-k-frequent-words) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/rama7993/Coding/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rama7993/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/rama7993/Coding/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/rama7993/Coding/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/rama7993/Coding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rama7993/Coding/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/rama7993/Coding/tree/master/0766-toeplitz-matrix) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rama7993/Coding/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/rama7993/Coding/tree/master/0566-reshape-the-matrix) |
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1603-design-parking-system](https://github.com/rama7993/Coding/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/rama7993/Coding/tree/master/1642-water-bottles) |
