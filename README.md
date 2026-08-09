@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rama7993/Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rama7993/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rama7993/Coding/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/rama7993/Coding/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rama7993/Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/rama7993/Coding/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/rama7993/Coding/tree/master/0443-string-compression) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rama7993/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rama7993/Coding/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/rama7993/Coding/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/rama7993/Coding/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rama7993/Coding/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/rama7993/Coding/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rama7993/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1105,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rama7993/Coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rama7993/Coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rama7993/Coding/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/rama7993/Coding/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/rama7993/Coding/tree/master/2050-count-good-numbers) |
 ## Data Stream
 |  |
