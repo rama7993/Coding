@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/rama7993/Coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/rama7993/Coding/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rama7993/Coding/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rama7993/Coding/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rama7993/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-diagonal-traverse-ii](https://github.com/rama7993/Coding/tree/master/1424-diagonal-traverse-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rama7993/Coding/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rama7993/Coding/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rama7993/Coding/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rama7993/Coding/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rama7993/Coding/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rama7993/Coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/rama7993/Coding/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rama7993/Coding/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/rama7993/Coding/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rama7993/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rama7993/Coding/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rama7993/Coding/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rama7993/Coding/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/rama7993/Coding/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/rama7993/Coding/tree/master/1502-construct-k-palindrome-strings) |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/rama7993/Coding/tree/master/1184-car-pooling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/rama7993/Coding/tree/master/1329-sort-the-matrix-diagonally) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rama7993/Coding/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rama7993/Coding/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1424-diagonal-traverse-ii](https://github.com/rama7993/Coding/tree/master/1424-diagonal-traverse-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rama7993/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2118-maximum-earnings-from-taxi](https://github.com/rama7993/Coding/tree/master/2118-maximum-earnings-from-taxi) |
@@ -988,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/rama7993/Coding/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2280-count-good-triplets-in-an-array](https://github.com/rama7993/Coding/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/rama7993/Coding/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/rama7993/Coding/tree/master/3678-design-task-manager) |
